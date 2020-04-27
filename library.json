@@ -1,0 +1,21 @@
+{
+  "name": "TFT_eSPI_SPRESENSE",
+  "version": "2.2.0",
+  "keywords": "Arduino, tft, ePaper, display, SPRESENSE",
+  "description": "A TFT and ePaper SPI graphics library with optimisation for SPRESENSE",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Bodmer/TFT_eSPI"
+  },
+  "authors":
+  [
+    {
+        "name": "Bodmer",
+        "email": "bodmer@anola.net",
+        "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "sonyspresense"
+}
