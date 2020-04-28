@@ -5,8 +5,8 @@
   https://github.com/Bodmer/TFT_eSPI"
 
 ## Modified files
-TFT_eSPI_SPRESENSE\Extensions\Sprite.cpp
-TFT_eSPI_SPRESENSE\library.json
+(TFT_eSPI_SPRESENSE\Extensions\Sprite.cpp)[TFT_eSPI_SPRESENSE\Extensions\Sprite.cpp]
+[TFT_eSPI_SPRESENSE\library.json]
 TFT_eSPI_SPRESENSE\library.properties
 TFT_eSPI_SPRESENSE\User_Setup_Select.h
 
