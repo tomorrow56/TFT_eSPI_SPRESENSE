@@ -5,10 +5,10 @@
   https://github.com/Bodmer/TFT_eSPI"
 
 ## Modified files
-"TFT_eSPI_SPRESENSE\Extensions\Sprite.cpp"
-"TFT_eSPI_SPRESENSE\library.json"
-"TFT_eSPI_SPRESENSE\library.properties"
-"TFT_eSPI_SPRESENSE\User_Setup_Select.h"
+TFT_eSPI_SPRESENSE\Extensions\Sprite.cpp
+TFT_eSPI_SPRESENSE\library.json
+TFT_eSPI_SPRESENSE\library.properties
+TFT_eSPI_SPRESENSE\User_Setup_Select.h
 
 ## Added files
 "TFT_eSPI_SPRESENSE\TFT_eSPI_SPRESENSE.h"
@@ -22,4 +22,4 @@
 "TFT_eSPI_SPRESENSE\TFT_eSPI.cpp"
 
 ## Sample sketch
-"TFT_eSPI_SPRESENSE\examples\SPRESENSE\SPRESENSE_ILI9341_TFT_graphicstest_one_lib"
+"TFT_eSPI_SPRESENSE\examples\SPRESENSE\"
